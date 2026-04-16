@@ -1,0 +1,2 @@
+cryptography>=42.0.0
+# yubikey-manager>=5.0.0  # Uncomment when using real YubiKey hardware
